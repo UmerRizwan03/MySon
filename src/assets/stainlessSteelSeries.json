@@ -1,0 +1,191 @@
+[
+  {
+    "category": "Stainless Steel Series LR",
+    "products": [
+      {
+        "models": [
+          "HRWH127MS4 / LS4",
+          "HFWH127MS4 / LS4",
+          "HRWH147MS4 / LS4",
+          "HFWH147MS4 / LS4",
+          "HRWH77MS4 / LS4",
+          "HFWH77MS4 / LS4",
+          "HRFWH77MS4 / LS4",
+          "HRFWH127MS4 / LS4",
+          "HRWH77LS4-LG",
+          "HRWH127LS4-LG"
+        ],
+        "volume": "1720 Liters",
+        "dimensions": "1800 (W) x 818 (D) x 1990 (H)",
+        "power_supply": "230V AC / 50Hz",
+        "temperature_range": "-2°C to +12°C / -7°C to -25°C",
+        "shelves": 12
+      },
+      {
+        "models": ["RTSW97MS4-GNTE", "RTSW137MS4-GNTE"],
+        "variations": [
+          {
+            "volume": "507 Liter",
+            "dimensions": "680 (W) x 760 (D) x 1890",
+            "shelves": 4
+          },
+          {
+            "volume": "988 Liter",
+            "dimensions": "1220 (W) x 760 (D) x 1890",
+            "shelves": 8
+          }
+        ],
+        "power_supply": "230V AC / 50 Hz",
+        "temperature_range": "-2°C to 12°C",
+        "note": "Basic Model"
+      },
+      {
+        "category": "Back Bar Refrigerator",
+        "products": [
+          {
+            "model": "RBWH95",
+            "volume": "226 Liters",
+            "dimensions": "900 (W) x 561 (D) x 900 (H)",
+            "power_supply": "230V AC / 50Hz",
+            "temperature_range": "0°C to +10°C",
+            "shelves": 4,
+            "refrigerant": "R-290 / 50 gram",
+            "compressor_capacity": "262W",
+            "temperature_control": "Thermostat",
+            "bottle_loading": "153 nos. Pint bottles"
+          },
+          {
+            "model": "RBWH135",
+            "volume": "349 Liters",
+            "dimensions": "1350 (W) x 561 (D) x 900 (H)",
+            "power_supply": "230V AC / 50Hz",
+            "temperature_range": "0°C to +10°C",
+            "shelves": 6,
+            "refrigerant": "R-290 / 54 gram",
+            "compressor_capacity": "412W",
+            "temperature_control": "Thermostat",
+            "bottle_loading": "236 nos. Pint bottles"
+          }
+        ]
+      },
+      {
+        "category": "Dishwasher",
+        "products": [
+          {
+            "model": "WBM-1080-T",
+            "dimensions": "700 (W) x 785 (D) x 1480 (1960) (H)",
+            "electricity_consumption": "9.66 kW 380 V 3NPE 50 Hz",
+            "washing_capacity": "69/35/27/23/18",
+            "washing_tank_capacity": "22 ltr",
+            "boiler_tank_capacity": "7 ltr",
+            "washing_pump_power": "0.66 kW",
+            "rinsing_pump_power": "0.25 kW",
+            "washing_heat_power": "2 kW",
+            "rinsing_heat_power": "9 kW",
+            "noise_level": "75 dBA"
+          },
+          {
+            "model": "WBY-50T-PDT",
+            "dimensions": "595 (W) x 645 (D) x 830 (H)",
+            "electricity_consumption": "5.5 kW 220-240 V 50 Hz",
+            "washing_capacity": "35/27/23/20/18",
+            "washing_tank_capacity": "27 ltr",
+            "boiler_tank_capacity": "6 ltr",
+            "washing_pump_power": "0.66 kW",
+            "rinsing_pump_power": "0.25 kW",
+            "washing_heat_power": "2 kW",
+            "rinsing_heat_power": "5 kW",
+            "noise_level": "70 dBA"
+          }
+        ]
+      },
+      {
+        "category": "Glasswasher (Undercounter)",
+        "model": "WBY-40T-PDT",
+        "dimensions": "475 (W) x 540 (D) x 765 (H)",
+        "electricity_consumption": "3.3 kW 220-230V NPE 50 Hz",
+        "washing_capacity": "33/26/18",
+        "washing_tank_capacity": "18.4 ltr",
+        "boiler_tank_capacity": "2.8 ltr",
+        "washing_pump_power": "0.31 kW",
+        "washing_heat_power": "2 kW",
+        "rinsing_heat_power": "3 kW",
+        "noise_level": "70 dBA"
+      },
+      {
+        "category": "Premium Upright Series",
+        "products": [
+          {
+            "model": "HRWP77",
+            "volume": "620 ltrs",
+            "dimensions": "700 (W) x 887 (D) x 1990 (H)",
+            "power_supply": "230V AC / 50Hz",
+            "temperature_range": "-2°C to 12°C",
+            "shelves": 4
+          },
+          {
+            "model": "HFWP77",
+            "volume": "620 ltrs",
+            "dimensions": "700 (W) x 887 (D) x 1990 (H)",
+            "power_supply": "230V AC / 50Hz",
+            "temperature_range": "-7°C to -25°C",
+            "shelves": 4
+          },
+          {
+            "model": "HRWP147",
+            "volume": "1350 ltrs",
+            "dimensions": "1400 (W) x 887 (D) x 1990 (H)",
+            "power_supply": "230V AC / 50Hz",
+            "temperature_range": "-2°C to 12°C",
+            "shelves": 8
+          },
+          {
+            "model": "HFWP147",
+            "volume": "1350 ltrs",
+            "dimensions": "1400 (W) x 887 (D) x 1990 (H)",
+            "power_supply": "230V AC / 50Hz",
+            "temperature_range": "-7°C to -25°C",
+            "shelves": 8
+          }
+        ]
+      },
+      {
+        "category": "Premium Undercounter Series",
+        "products": [
+          {
+            "model": "RTWP127-GN",
+            "volume": "282 ltrs",
+            "dimensions": "1200 (W) x 700 (D) x 850 (H)",
+            "power_supply": "230V AC / 50Hz",
+            "temperature_range": "-2°C to 12°C",
+            "shelves": 4
+          },
+          {
+            "model": "FTWP127-GN",
+            "volume": "282 ltrs",
+            "dimensions": "1200 (W) x 700 (D) x 850 (H)",
+            "power_supply": "230V AC / 50Hz",
+            "temperature_range": "-7°C to -23°C",
+            "shelves": 4
+          },
+          {
+            "model": "RTWP177-GN",
+            "volume": "436 ltrs",
+            "dimensions": "1660 (W) x 700 (D) x 850 (H)",
+            "power_supply": "230V AC / 50Hz",
+            "temperature_range": "-2°C to 12°C",
+            "shelves": 6
+          },
+          {
+            "model": "FTWP177-GN",
+            "volume": "436 ltrs",
+            "dimensions": "1660 (W) x 700 (D) x 850 (H)",
+            "power_supply": "230V AC / 50Hz",
+            "temperature_range": "-7°C to -23°C",
+            "shelves": 6
+          }
+        ]
+      }
+    ]
+  }
+]
